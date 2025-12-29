@@ -1,0 +1,7 @@
+{
+  "name": "FamilySync",
+  "description": "A unified smart family calendar and to-do list dashboard inspired by Cozyla.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

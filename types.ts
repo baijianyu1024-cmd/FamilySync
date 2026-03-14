@@ -65,4 +65,6 @@ export interface ChatMessage {
   isProcessing?: boolean;
   thoughts?: string; // Chain of thought text
   toolLogs?: ToolLog[]; // Record of tools used during this turn
+  addedEvents?: any[];
+  addedTasks?: any[];
 }
